@@ -4,3 +4,5 @@ gai add filename.txt -> длядодавання файлу в stagging area
 git add . -> додаємо всі в stagging area
 git commit -m "commit message"-> закомітити зміни в репо
 git log -казує історію комітів
+git checkout <hash> -> перейти на перший коміт
+git diff <hash1> <hash2> filename.txt -> переглянути зиіни між версіями файлу
