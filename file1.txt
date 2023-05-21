@@ -9,3 +9,4 @@ git diff <hash1> <hash2> filename.txt -> переглянути зиіни мі�
 git рядок для перевірки
 git перевірка нового коду
 changes in branch 2
+changes from inteledgi
